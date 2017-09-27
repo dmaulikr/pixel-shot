@@ -1,3 +1,2 @@
 # unnamed-game
-An unnamed Unity game.
-(This Will get named later)
+Pixel Shot, Made in C# Unity.
